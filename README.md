@@ -1,3 +1,5 @@
+![Screenshot 2025-05-30 111003](https://github.com/user-attachments/assets/c6081151-ab42-421a-a6a0-75968da0cdad)
+![Screenshot 2025-05-30 111003](https://github.com/user-attachments/assets/e73466d2-bb75-406e-af1f-ffc4c48ce209)
 PS C:\Users\janzj\terraform-docker-container\terraform-docker-container> terraform init
 Terraform initialized in an empty directory!
 
@@ -193,3 +195,4 @@ fa01e9aa2662   nginx:latest   "/docker-entrypoint.…"   15 seconds ago   Up 14 
 PS C:\Users\janzj\terraform-docker-container> terraform state list
 docker_container.nginx_container
 docker_image.nginx_image
+![Screenshot 2025-05-30 111003](https://github.com/user-attachments/assets/1246c52f-9cc2-4131-b87a-70c7d7191b98)
