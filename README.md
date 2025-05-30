@@ -1,5 +1,5 @@
 ![Screenshot 2025-05-30 111003](https://github.com/user-attachments/assets/c6081151-ab42-421a-a6a0-75968da0cdad)
-![Screenshot 2025-05-30 111003](https://github.com/user-attachments/assets/e73466d2-bb75-406e-af1f-ffc4c48ce209)
+
 PS C:\Users\janzj\terraform-docker-container\terraform-docker-container> terraform init
 Terraform initialized in an empty directory!
 
